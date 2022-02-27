@@ -1,0 +1,24 @@
+1.colors
+    dark green: #3F5D45
+
+    
+2.fontawesome 
+    shopping cart: fas fa-shopping-cart
+    heart: heart far fa-heart
+    arrow: fas fa-angle-left/fas fa-angle-right
+    envelope: fas fa-envelope
+    mail-arrow: fas fa-arrow-right
+
+
+    
+
+修正:
+-忘了container margin:auto
+-文字置中text-align:center
+-粗細 font-weight:bold
+-邊框 border:1px solid #顏色
+-金額 <span> 
+-商品 <h2>
+-設置產品區 排版
+.productList{width: 620px;}
+
