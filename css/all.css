@@ -270,7 +270,7 @@ a{
 
 .footer{
     
-    border-color: #EAF0ED;
+    background-color: #EAF0ED;
 }
 .footer-inner{
     display: flex;
